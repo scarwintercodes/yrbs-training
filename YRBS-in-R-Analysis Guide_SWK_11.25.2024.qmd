@@ -1,6 +1,7 @@
 ---
 title: "Analyzing YRBS Data Using R's Survey Package: A Comprehensive Guide"
 format: pdf
+author: Scar Winter Kelsey | ScarData Consulting
 ---
 
 # Analyzing YRBS Data Using R's Survey Package: A Comprehensive Guide
